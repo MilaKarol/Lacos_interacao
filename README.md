@@ -1,6 +1,6 @@
 # Projeto Laços de Interação 💡
 
-Este projeto foi desenvolvido na aula de Prigramação Web I, com o professor Leonardo Rocha, na instituição Escola Social Marista Ir. Acácio. 
+Este projeto foi desenvolvido na aula de Programação Web I, com o professor Leonardo Rocha, na instituição Escola Social Marista Ir. Acácio. 
 
 Por tanto este código HTML cria uma página interativa que permite aos usuários selecionar múltiplos estilos musicais a partir de uma lista e, ao clicar em um botão, exibir o número de estilos selecionados. Abaixo está a descrição detalhada dos componentes e funcionalidades dessa página.
 
