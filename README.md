@@ -26,11 +26,11 @@ https://www.linkedin.com/in/milla-karoll
 
 
 # Tecnologias ⚙️
-html
-css
+html,
+css e 
 JavaScript
 
 # Ferramentas 🔧
-Vscode
-GitHub
+Vscode,
+GitHub e 
 Linkedin
