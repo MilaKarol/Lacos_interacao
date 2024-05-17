@@ -34,3 +34,6 @@ JavaScript
 Vscode,
 GitHub e 
 Linkedin
+
+# Imagem do projeto 
+![](projeto.png)
