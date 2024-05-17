@@ -19,11 +19,6 @@ Este projeto foi desenvolvido por Milena Caroline.
 ```
 https://github.com/MilaKarol
 ```
-```
-
-https://www.linkedin.com/in/milla-karoll
-```
-
 
 # Tecnologias ⚙️
 html,
